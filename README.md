@@ -20,10 +20,6 @@
   <h1 align="center">Redes Sociais</h1>
     <a href = "https://www.instagram.com/jp_mafi07/?igshid=YmMyMTA2M2Y%3D">
       <img width="26" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
-    </a>
-    <a href = "https://https://www.linkedin.com/in/julia-varoni/">
-    <img width="26" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
-    </a>
 </div>
 
 
@@ -42,7 +38,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alexandre-milim}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Mafi-018}/count.svg" /></p> 
 <br></div>
 
 
