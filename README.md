@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header&text=MAFILDO&fontSize=30&fontColor=ffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header&text=JOÃO-PEDRO&fontSize=30&fontColor=ffff&animation=twinkling&fontAlignY=35"/>
 
 
   
