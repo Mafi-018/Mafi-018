@@ -41,8 +41,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Mafi-018}/count.svg" /></p>
 <br></div>
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
 
-  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
